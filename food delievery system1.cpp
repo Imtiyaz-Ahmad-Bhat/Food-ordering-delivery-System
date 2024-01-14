@@ -19,7 +19,6 @@ int main()
 	cout<<"your id is :"<<endl<<customerid<<endl;
 	cout<<"May I know your good name please dear:";
 	cin.getline(name, 50);
-	cout<<"sir My name is :" << name << endl;
 	printf("\n");
 	cout<<"Nice to meet you "<<name<<endl<<"What would you like to order?"<<endl;
 	cout<<"1.Biriyani\t" "2.Cake\n" "3.Burger\t ";
